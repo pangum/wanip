@@ -12,7 +12,7 @@ type Agent struct {
 
 func newAgent(client *http.Client, logger *logging.Logger) (agent *Agent, err error) {
 	agent = new(Agent)
-	agent.Agent, err = wanip.NewAgent(wanip.Client(client.Client), wanip.Logger(logger.Logger))
+	agent.Agent, err = wanip.New(wanip.Client(client.Client), wanip.Logger(logger.Logger))
 
 	return
 }

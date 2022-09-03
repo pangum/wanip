@@ -3,7 +3,7 @@ module github.com/pangum/wanip
 go 1.18
 
 require (
-	github.com/goexl/wanip v0.0.2
+	github.com/goexl/wanip v0.0.3
 	github.com/pangum/http v0.0.6
 	github.com/pangum/logging v0.1.5
 	github.com/pangum/pangu v0.1.6
@@ -21,7 +21,7 @@ require (
 	github.com/goexl/exc v0.0.4 // indirect
 	github.com/goexl/gfx v0.0.8 // indirect
 	github.com/goexl/gox v0.0.9 // indirect
-	github.com/goexl/mengpo v0.1.8 // indirect
+	github.com/goexl/mengpo v0.1.9 // indirect
 	github.com/goexl/simaqian v0.1.3 // indirect
 	github.com/goexl/xiren v0.0.3 // indirect
 	github.com/google/uuid v1.3.0 // indirect
