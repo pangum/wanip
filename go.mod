@@ -3,7 +3,7 @@ module github.com/pangum/wanip
 go 1.18
 
 require (
-	github.com/goexl/wanip v0.0.1
+	github.com/goexl/wanip v0.0.2
 	github.com/pangum/http v0.0.6
 	github.com/pangum/logging v0.1.5
 	github.com/pangum/pangu v0.1.5
