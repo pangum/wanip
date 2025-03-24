@@ -7,7 +7,7 @@ require (
 	github.com/goexl/wanip v0.0.3
 	github.com/pangum/http v0.1.8
 	github.com/pangum/logging v0.1.9
-	github.com/pangum/pangu v1.5.8
+	github.com/pangum/pangu v1.5.9
 )
 
 require (
@@ -25,7 +25,7 @@ require (
 	github.com/goexl/exception v0.0.3 // indirect
 	github.com/goexl/gfx v0.2.5 // indirect
 	github.com/goexl/gox v1.9.2 // indirect
-	github.com/goexl/log v0.0.7 // indirect
+	github.com/goexl/log v0.0.9 // indirect
 	github.com/goexl/mengpo v0.2.6 // indirect
 	github.com/goexl/simaqian v0.2.3 // indirect
 	github.com/goexl/structer v0.1.9 // indirect
